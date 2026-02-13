@@ -228,5 +228,3 @@ If you find this project useful, please consider:
 ---
 
 **Made with ❤️ for the KDE Community**
-
-*Transform your application launcher experience today!*
